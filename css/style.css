@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0, auto;
+    background-image: url(https://teatroleoamici.it/wp-content/uploads/2019/03/sfondo-blu-senza-fili.jpg);
+    background-size: cover;
+    color: white;
+}
+
+header {
+    border-bottom: 2px solid white;
+}
+
+span{
+    background-color: red;
+    border-radius: 100%;
+}
+
+main {
+    margin-top: 5px;
+    border-bottom: 2px solid white;
+}
+
+img {
+    width: 100px;
+}
+
+.prima input, p {
+    display: inline-block;
+}
+
+footer {
+    margin-top: 3px;
+    text-align: center;
+}
+
+footer p {
+    font-style: 'Roboto', serif;
+}
+
+h1 {
+    display: inline;
+    color: white;
+}
